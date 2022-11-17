@@ -1,0 +1,9 @@
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\bin\Debug\netcoreapp3.1\GenomeCalculator.deps.json
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\bin\Debug\netcoreapp3.1\GenomeCalculator.dll
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\bin\Debug\netcoreapp3.1\GenomeCalculator.pdb
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\obj\Debug\netcoreapp3.1\GenomeCalculator.csproj.AssemblyReference.cache
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\obj\Debug\netcoreapp3.1\GenomeCalculator.AssemblyInfoInputs.cache
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\obj\Debug\netcoreapp3.1\GenomeCalculator.AssemblyInfo.cs
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\obj\Debug\netcoreapp3.1\GenomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\obj\Debug\netcoreapp3.1\GenomeCalculator.dll
+C:\Users\karee\source\repos\GenomeCalculator\GenomeCalculator\obj\Debug\netcoreapp3.1\GenomeCalculator.pdb
