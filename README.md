@@ -7,7 +7,10 @@ The nuget calculates a gene's GC composition, helpful to determine the gene's qu
 Also the sequence's baselength can calculated.
 
 
-Example:
+Examples
+
+
+
             Example: 1 ==> Generate the basepairlength
             
             string filepath = @"C:\Users\...\sequence.fasta";
@@ -16,7 +19,7 @@ Example:
             Console.WriteLine("DNA ==> " + result );
             
             
-            Example: 1 ==> Generate the GC ration
+            Example: 2 ==> Generate the GC ration
             
             string filepath = @"C:\Users\...\sequence.fasta";
             Context myDNA = new Context(operation: new Ratio());
